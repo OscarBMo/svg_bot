@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500" fill="none">
+    <!-- Viking Ship -->
+    <path d="M250,250 L360,260 L360,220 L400,250 L350,245 Q330,235,310,245 L300,260 Q250,250,200,260 L190,245 Q170,235,150,245 L100,250 L140,220 L140,260 Z" fill="black"/>
+    <!-- Waves -->
+    <path d="M0,300 Q50,320,100,300 T200,300 T300,300 T400,300 T500,300" fill="none" stroke="black" stroke-width="5"/>
+    <path d="M0,320 Q50,340,100,320 T200,320 T300,320 T400,320 T500,320" fill="none" stroke="black" stroke-width="5"/>
+    <path d="M0,340 Q50,360,100,340 T200,340 T300,340 T400,340 T500,340" fill="none" stroke="black" stroke-width="5"/>
+</svg>

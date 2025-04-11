@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+    <title>Feral cat in blue</title>
+    <desc>A simple representation of a feral cat in blue.</desc>
+    <path fill="blue" d="M25 5 Q15 10, 15 20 Q15 30, 25 35 Q35 30, 35 20 Q35 10, 25 5 M15 20 Q5 20, 15 25 M35 20 Q45 20, 35 25 M25 5 Q15 40, 35 5z"/>
+</svg>

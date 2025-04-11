@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="SkyGradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="5%" stop-color="#F39C12"/>
+      <stop offset="95%" stop-color="#E74C3C"/>
+    </linearGradient>
+    <linearGradient id="SunGradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="5%" stop-color="#F1C40F"/>
+      <stop offset="95%" stop-color="#F39C12"/>
+    </linearGradient>
+    <linearGradient id="MountainGradient" x1="0" x2="0" y1="1" y2="0">
+      <stop offset="5%" stop-color="#2C3E50"/>
+      <stop offset="95%" stop-color="#192A3D"/>
+    </linearGradient>
+    <linearGradient id="RiverGradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="5%" stop-color="#3498DB"/>
+      <stop offset="95%" stop-color="#2980B9"/>
+    </linearGradient>
+  </defs>
+  <rect id="sky" fill="url(#SkyGradient)" width="64" height="32"/>
+  <circle id="sun" cx="32" cy="16" r="10" fill="url(#SunGradient)"/>
+  <polygon id="mountain" points="0,32 32,24 64,32" fill="url(#MountainGradient)"/>
+  <rect id="river" y="32" fill="url(#RiverGradient)" width="64" height="32"/>
+</svg>
