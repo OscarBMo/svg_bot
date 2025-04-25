@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+    <!-- Background circle -->
+    <circle cx="400" cy="400" r="400" fill="#ffffff" />
+
+    <!-- Panda body -->
+    <ellipse cx="400" cy="460" rx="200" ry="250" fill="#000000" />
+
+    <!-- Panda left ear -->
+    <circle cx="260" cy="260" r="60" fill="#000000"/>
+    
+    <!-- Panda right ear -->
+    <circle cx="540" cy="260" r="60" fill="#000000"/>
+
+    <!-- Panda face -->
+    <circle cx="400" cy="350" r="220" fill="#ffffff" />
+
+    <!-- Panda left eye spot -->
+    <circle cx="320" cy="320" r="60" fill="#000000" />
+
+    <!-- Panda right eye spot -->
+    <circle cx="480" cy="320" r="60" fill="#000000" />
+
+    <!-- Panda left eye -->
+    <circle cx="320" cy="340" r="30" fill="#ffffff" />
+
+    <!-- Panda right eye -->
+    <circle cx="480" cy="340" r="30" fill="#ffffff" />
+
+    <!-- Panda nose -->
+    <circle cx="400" cy="400" r="20" fill="#000000" />
+
+    <!-- Bamboo body -->
+    <rect x="600" y="500" width="20" height="200" fill="#008000" />
+
+    <!-- Bamboo leaf -->
+    <path d="M600 600 L580 580 L620 580 Z" fill="#008000" />
+
+    <!-- Panda's mouth -->
+    <path d="M400 480 Q450 500, 375 600" fill="transparent" stroke="#000000" stroke-width="5" />
+</svg>

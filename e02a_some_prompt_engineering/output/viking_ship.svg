@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round">
+  <!-- The hull of the Viking ship -->
+  <path d="M161.5 256h200a80 80 0 0 0-80-80H141a96 96 0 0 0-96 96 96 96 0 0 0 96 96h20"/>
+
+  <!-- The mast of the Viking ship -->
+  <path d="M256 176v160"/>
+
+  <!-- The sail of the Viking ship -->
+  <path d="M256 336l120-160l-240 0z"/>
+
+  <!-- The waves in the water -->
+  <path d="M0 356h512v40h-512z"/>
+  <path d="M0 396v56q64-8 128 0t128-16t128 16t128 0v-56h-512z"/>
+</svg>

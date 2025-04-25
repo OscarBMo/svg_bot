@@ -1,0 +1,9 @@
+<!-- SVG container, the size is 500x500 pixels -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- The surfer, represented as a circle -->
+  <circle cx="200" cy="200" r="50" fill="black" />
+  <!-- The surfboard, represented as an ellipse -->
+  <ellipse cx="200" cy="250" rx="80" ry="20" fill="blue" />
+  <!-- The wave, represented as a flowing line -->
+  <path d="M 0 350 Q 100 300 200 350 Q 300 400 400 350 L 500 350 L 500 500 L 0 500 Z" fill="lightblue" />
+</svg>

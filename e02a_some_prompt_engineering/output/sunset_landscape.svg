@@ -1,0 +1,28 @@
+<!--SVG container -->
+<svg height="100" width="100">
+
+    <!-- The sky part of landscape-->
+    <rect width="100" height="50" style="fill:#FF6347;"> 
+        <!--The above rectangle is formed with a width of 100 and height of 50 with a Tomatosky color (The color of a sunset).-->
+    </rect>
+
+    <!-- The ground part of landscape -->
+    <rect y="50" width="100" height="50" style="fill:#90EE90;">
+        <!-- The above rectangle is formed with a width of 100 and height of 50 with a  LightGreen ground color (The color of a grass).-->
+    </rect>
+
+    <!-- A small mountain -->
+    <polygon points="20,50 50,20 80,50" style="fill:#696969;">
+        <!-- A grey colored mountain with three points forming a triangle -->
+    </polygon>
+
+    <!-- A bigger mountain -->
+    <polygon points="30,50 50,10 70,50" style="fill:#808080;">
+        <!-- A larger grey colored mountain with three points forming a triangle -->
+    </polygon>
+
+    <!-- Adding a river -->
+    <line x1="0" y1="100" x2="100" y2="50" style="stroke:blue;stroke-width:2">
+        <!-- Drawing a blue line from bottom left corner to center of the right edge to represent a river-->
+    </line>
+</svg>
