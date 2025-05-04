@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+    <!-- Sky background with a gradient from deep purple to bright orange -->
+    <defs>
+        <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#2d1b55" />
+            <stop offset="100%" stop-color="#ff6e40" />
+        </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="800" height="600" fill="url(#skyGradient)" />
+
+    <!-- Sun represented by a bright yellow circle -->
+    <circle cx="400" cy="500" r="50" fill="#ffeb3b" />
+
+    <!-- Glimmer effect for the sun -->
+    <ellipse cx="400" cy="500" rx="80" ry="10" fill="rgba(255, 235, 59, 0.3)" />
+    
+    <!-- Distant mountain range -->
+    <polygon points="0,400 200,320 400,350 600,300 800,400" fill="#3f51b5" />
+    
+    <!-- Nearer mountain range -->
+    <polygon points="0,500 200,420 400,450 600,400 800,500" fill="#1a237e" />
+
+    <!-- Winding river -->
+    <path d="M400 550 Q500 600, 800 600 Q600 550, 600 550" fill="#4fc3f7" />
+    <path d="M400 550 Q500 600, 800 600 Q600 550, 600 550" fill="rgba(255, 235, 59, 0.3)" style="mix-blend-mode: overlay;"/>
+
+    <!-- Clouds in the sky -->
+    <ellipse cx="100" cy="100" rx="50" ry="25" fill="#ce93d8" />
+    <ellipse cx="200" cy="200" rx="50" ry="25" fill="#ce93d8" />
+    <ellipse cx="300" cy="150" rx="50" ry="25" fill="#ce93d8" />
+</svg>

@@ -1,0 +1,25 @@
+<svg width="800px" height="800px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Pizza Base -->
+    <circle cx="400px" cy="300px" r="200px" fill="#A52A2A" stroke="black" stroke-width="30" ></circle>
+    
+    <!-- Tomato Slices -->
+    <circle cx="330px" cy="280px" r="30px" fill="red"></circle>
+    <circle cx="460px" cy="230px" r="30px" fill="red"></circle>
+    <circle cx="400px" cy="330px" r="30px" fill="red"></circle>
+    <circle cx="500px" cy="360px" r="30px" fill="red"></circle>
+
+    <!-- Mozzarella Pieces -->
+    <ellipse cx="390px" cy="280px" rx="23px" ry="35px" fill="white"></ellipse>
+    <ellipse cx="420px" cy="330px" rx="25px" ry="35px" fill="white"></ellipse>
+    <ellipse cx="450px" cy="260px" rx="20px" ry="30px" fill="white"></ellipse>
+    <ellipse cx="500px" cy="310px" rx="30px" ry="40px" fill="white"></ellipse>
+
+    <!-- Basil Leaves -->
+    <path d="M360 280 Q370 310 380 280 L360 280" fill="#006400"></path> 
+    <path d="M410 310 Q425 340 440 310 L410 310" fill="#006400"></path> 
+    <path d="M470 250 Q480 285 490 250 L470 250" fill="#006400"></path> 
+    <path d="M520 300 Q535 335 550 300 L520 300" fill="#006400"></path> 
+
+    <!-- Text -->
+    <text x="50%" y="700px" text-anchor="middle" font-family="Comic Sans MS, cursive, sans-serif" font-size="50px" fill="black">Pizza Margherita</text> 
+</svg>

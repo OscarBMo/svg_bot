@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
+    <!-- Background -->
+    <!-- Dark blue background to contrast silver elements -->
+    <rect width="100%" height="100%" fill="#000033" />
+
+    <!-- Body -->
+    <!-- Ellipse to represent sleek, metallic robot dog torso. Silver colour represents metal -->
+    <ellipse cx="500" cy="500" rx="250" ry="150" fill="#C0C0C0" />
+
+    <!-- Head -->
+    <!-- Oval shape for a typical dog head. Antenna and mechanical ears represented by lines. -->
+    <ellipse cx="700" cy="400" rx="150" ry="100" fill="#C0C0C0" />
+    <!-- Antenna -->
+    <line x1="700" y1="300" x2="700" y2="250" stroke="#C0C0C0" stroke-width="10" />
+    <circle cx="700" cy="250" r="15" fill="#C0C0C0" /> <!-- Antenna tip -->
+    <!-- Ears -->
+    <line x1="650" y1="375" x2="600" y2="350" stroke="#C0C0C0" stroke-width="10" />
+    <line x1="750" y1="375" x2="800" y2="350" stroke="#C0C0C0" stroke-width="10" />
+
+    <!-- Legs -->
+    <!-- Mechanically jointed limb design. Thicker at top and thinner ends -->
+    <!-- Right Front Leg -->
+    <line x1="600" y1="600" x2="650" y2="750" stroke="#C0C0C0" stroke-width="30" />
+    <!-- Right Back Leg -->
+    <line x1="450" y1="600" x2="400" y2="750" stroke="#C0C0C0" stroke-width="30" />
+    <!-- Left Front Leg -->
+    <line x1="550" y1="600" x2="500" y2="750" stroke="#C0C0C0" stroke-width="30" />
+    <!-- Left Back Leg -->
+    <line x1="400" y1="600" x2="450" y2="750" stroke="#C0C0C0" stroke-width="30" />
+
+    <!-- Tail -->
+    <!-- Jagged line to represent robotic, metallic tail -->
+    <polyline points="420,520 370,540 420,560 370,580" stroke="#C0C0C0" stroke-width="20" />
+
+    <!-- Eyes -->
+    <!-- Large, bright blue eyes with a slight glow -->
+    <circle cx="650" cy="390" r="25" fill="#0000FF" /> <!-- Right eye -->
+    <circle cx="750" cy="390" r="25" fill="#0000FF" /> <!-- Left eye -->
+</svg>

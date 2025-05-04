@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 800 800">
+    <!-- Viking Ship -->
+    <g id="Viking_Ship">
+        <!-- Hull of the ship -->
+        <path d="M100,600 Q300,550 500,600 T900,600" fill="black" /> <!-- Body of the ship -->
+
+        <!-- Dragon Head -->
+        <path d="M100,600 Q80,580 100,560 T120,600" fill="black" /> <!-- Dragon Head -->
+
+        <!-- Sail -->
+        <path d="M300,600 Q400,400 500,600" fill="black" /> <!-- Sail -->
+        
+        <!-- Oars -->
+        <line x1="200" y1="600" x2="200" y2="650" stroke="black" stroke-width="2" /> <!-- Oar-1 -->
+        <line x1="300" y1="600" x2="300" y2="650" stroke="black" stroke-width="2" /> <!-- Oar-2 -->
+        <line x1="400" y1="600" x2="400" y2="650" stroke="black" stroke-width="2" /> <!-- Oar-3 -->
+        <line x1="500" y1="600" x2="500" y2="650" stroke="black" stroke-width="2" /> <!-- Oar-4 -->
+        <line x1="600" y1="600" x2="600" y2="650" stroke="black" stroke-width="2" /> <!-- Oar-5 -->
+        <line x1="700" y1="600" x2="700" y2="650" stroke="black" stroke-width="2" /> <!-- Oar-6 -->
+        <line x1="800" y1="600" x2="800" y2="650" stroke="black" stroke-width="2" /> <!-- Oar-7 -->
+    </g>
+    <!-- Waves -->
+    <g id="Waves">
+        <!-- Wavw-1 -->
+        <path d="M20,650 Q300,700 580,650 T1140,650" stroke="black" fill="none" /> <!-- Wave Curve-1 -->
+        <!-- Wave-2 -->
+        <path d="M20,700 Q300,750 580,700 T1140,700" stroke="black" fill="none" /> <!-- Wave Curve-2 -->
+    </g>
+</svg>

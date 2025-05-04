@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 300">
+    <!-- The background of the logo -->
+    <rect fill="#FFFFFF" x="0" y="0" width="250" height="300" /> <!-- white background -->
+
+    <!-- The silhouette of the feral cat -->
+    <path fill="#0000FF" d="M50,50 Q75,100 150,110 Q200,100 210,80 Q200,70 200,60 Q195,55 185,50 Q175,40 150,40 Q125,30 100,30 Q75,35 60,40 Z" /> <!-- darker shade of blue for the cat body -->
+
+    <!-- The eyes of the feral cat -->
+    <ellipse fill="#00FFFF" cx="100" cy="70" rx="10" ry="15" /> <!-- left eye in radiant blue color -->
+    <ellipse fill="#00FFFF" cx="150" cy="70" rx="10" ry="15" /> <!-- right eye in radiant blue color -->
+
+    <!-- The fur details around the head of the cat -->
+    <path fill="#0000FF" d="M75,50 Q80,55 90,60 Q105,65 120,65 Q145,65 160,60 Q170,55 175,50" /> <!-- darker shade of blue for the fur details -->
+
+    <!-- The title beneath the cat figure -->
+    <text fill="#000080" x="50" y="200" font-size="30" font-weight="bold">Blue Feral Cat</text> <!-- darker shade of blue for the title -->
+</svg>

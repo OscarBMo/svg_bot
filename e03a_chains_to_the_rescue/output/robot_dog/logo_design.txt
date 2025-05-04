@@ -1,0 +1,39 @@
+## Output
+
+Title: Robot Dog
+
+### Elements Description:
+
+1. Dog body:
+    - Main body: should be shaped like a typical dog torso, but with a futuristic, robotic design.
+    - Material: should be shiny and metallic.
+    - Color: Silver, to give an impression of a metal body.
+    - Size: Should cover the main part of the logo, but leave room for other elements.
+
+2. Dog Head:
+    - Shape: Should be designed like a typical dog head but with clear signs of a robotic design, such as an antenna or mechanical ears.
+    - Material: Same as the body, shiny, and metallic.
+    - Color: Silver, to match the body and follow the same theme. 
+    - Size: Proportional to the body.
+
+3. Dog Legs:
+    - Shape: Must be in a form of mechanical jointed limbs. The upper part of the legs should be slightly thicker than the ends.
+    - Material: Similar to the body, shiny and metallic.
+    - Color: Same color as the body and Head (Silver).
+    - Size: In proportion to the body and Head.
+
+4. Dog Tail: 
+    - Shape: Swirly or jagged, indicating it's a robotic part rather than a natural tail.
+    - Material: Shiny and metallic, consistent with the rest of the elements.
+    - Color: Silver, to harmonize with the dog's body, head, and legs.
+    - Size: Proportional but not too long, should not take too much space in the design.
+
+5. Eyes:
+    - Shape: Oval but with a slight glow to indicate a power source.
+    - Color: Bright Blue, to contrast with the silver body and also imply the robotic nature.
+    - Size: Proportional and noticeable, should give the dog a lively look.
+
+6. Background:
+    - Should be kept simple to not detract from the main logo — a color that contrasts well with silver, like a dark-blue or black, would work well.
+
+Remember to keep all design elements sleek and futuristic to match the robotic dog concept in a recognizable and attractive way.
