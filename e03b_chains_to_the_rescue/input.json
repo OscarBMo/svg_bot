@@ -1,0 +1,38 @@
+[
+    {
+        "desired_output_filename": "blue_feral_cat",
+        "desired_svg_description": "A feral cat, but in blue.",
+        "title": "Blue Feral Cat"
+    },
+    {
+        "desired_output_filename": "viking_ship",
+        "desired_svg_description": "The sillhouette of a Viking ship riding waves.",
+        "title": "Viking Ship"
+    },
+    {
+        "desired_output_filename": "pizza_margherita",
+        "desired_svg_description": "A pizza margherita with basil, mozzarella, and tomato.",
+        "title": "Pizza Margherita"
+    },
+    {
+        "desired_output_filename": "cool_surfer",
+        "desired_svg_description": "A cool surfer riding a wave.",
+        "title": "Cool Surfer"
+    },
+    {
+        "desired_output_filename": "cute_panda",
+        "desired_svg_description": "A cute panda eating bamboo.",
+        "title": "Cute Panda"
+    },
+    {
+        "desired_output_filename": "robot_dog",
+        "desired_svg_description": "A robot dog with a shiny metallic body.",
+        "title": "Robot Dog"
+    },
+    {
+        "desired_output_filename": "sunset_landscape",
+        "desired_svg_description": "A beautiful sunset landscape with mountains and a river.",
+        "title": "Sunset Landscape"
+    }
+   
+]

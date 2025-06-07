@@ -1,0 +1,13 @@
+## Logo Elements Decomposition
+
+1. **Viking Ship Silhouette**
+   - Shape: A traditional Viking ship silhouette. It would show the hull in the form of a slight curve with upward points at both ends. The main body should be narrow. Outline the shields that line the sides of the ship. Above the hull, indicate the mast and the hook-shaped sail. The sail should be presented as if it was inflated by the wind.
+   - Color: Monochromatic, preferably black to emphasize the silhouette. This also helps the logo to keep its coherence when used in different backgrounds.
+   - Size: The ship should be the most prominent element in the logo. Make it large enough to fill a substantial part of the logo without dominating it entirely.
+
+2. **Waves**
+   - Shape: Shows undulating waves under the ship, these should be curvy and fewer in number to avoid clutter. They should be stylized to match the silhouette theme. Nonetheless, they should give the impression that the ship is in motion.
+   - Color: Keeping with the silhouette theme, these too should be black. The differences between the ship and the waves would then be distinguished by shape alone.
+   - Size: They should be sized proportionally to the ship, large enough to be clearly seen, but smaller to ensure the ship remains the focal point of the design.
+
+Please note that while this design is minimalistic, it informs the viewer about the brand's association with strength, exploration, and ancient Viking values.

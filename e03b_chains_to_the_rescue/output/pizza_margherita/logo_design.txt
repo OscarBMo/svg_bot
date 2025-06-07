@@ -1,0 +1,20 @@
+## Elements Decomposition
+
+1. Pizza Base:
+    - Shape: Circle. Describes the typical round shape of a pizza.
+    - Color: Light Golden Brown. Spotlights the look of a baked pizza crust.
+  
+2. Tomato Slices:
+    - Shape: Slices which are small concentric circles or semi-circles.
+    - Color: Bright red. Represents the fresh tomato slices used in real pizzas.
+    - Size: Random but proportional to pizza base. Suggests organic shape and size of natural tomato slices. Should be distributed around the pizza base.
+
+3. Mozzarella Spots:
+    - Shape: Round or irregular blobs. Depicts blobs of melted mozzarella cheese.
+    - Color: White. Highlights the use of mozzarella on a Margherita pizza.
+    - Size: Random but proportional to pizza base. Simulates the varied look of scattered cheese on a pizza. Should be distributed around the pizza base.
+
+4. Basil Leaves:
+    - Shape: Leaves. Captures the traditional leaf shape of basil.
+    - Color: Bright green. Shows the fresh basil leaves used on a pizza.
+    - Size: Smaller than tomato slices and mozzarella spots. Highlights the addition of basil on the pizza. Should be distributed around the pizza base.

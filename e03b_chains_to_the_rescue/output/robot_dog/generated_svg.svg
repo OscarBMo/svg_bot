@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   
+  <!-- Outline of the dog -->
+  <path id="outline" d="M45,70 Q70,90 100,80 Q140,70 100,65 Q77,50 73,30 Q70,7 90,5 Q110,5 105,30 Q110,50 135,65 Q95,70 70,80 Q45,90 45,70" stroke="black" fill="transparent" stroke-width="2"/>
+  
+  <!-- Gradient for the metallic color -->
+  <defs>
+    <linearGradient id="metallic-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:lightgrey;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:grey;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:darkgrey;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Apply gradient on the dog -->
+  <use xlink:href="#outline" fill="url(#metallic-gradient)"/>
+  
+  <!-- Dog's eyes -->
+  <circle cx="80" cy="30" r="4" fill="blue"/> <!-- left eye -->
+  <circle cx="100" cy="30" r="4" fill="blue"/> <!-- right eye -->
+
+  <!-- Mechanical Features -->
+  <line x1="75" y1="50" x2="105" y2="50" stroke="black" stroke-width="1"/> <!-- line signifying panel -->
+  <circle cx="95" cy="70" r="5" fill="black"/> <!-- Gear -->
+
+  <!-- Dog's tail -->
+  <path id="tail" d="M135,65 Q145,75 155,65 T175,65" stroke="black" fill="transparent" stroke-width="2"/>
+  
+  <!-- Apply gradient on the tail -->
+  <use xlink:href="#tail" fill="url(#metallic-gradient)"/>
+
+</svg>

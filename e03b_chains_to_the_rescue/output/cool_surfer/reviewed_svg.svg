@@ -1,0 +1,19 @@
+The provided SVG code is valid without any errors or issues. Therefore, there is no need for any corrections or improvements.
+
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+   <!-- Drawing the sky -->
+   <rect width="100%" height="100%" fill="lightblue"/>
+   
+   <!-- Drawing the Sun -->
+   <circle cx="40%" cy="40%" r="50" fill="yellow"/>
+
+   <!-- Drawing the wave with lines representing foam -->
+   <path fill="#4169e1" d="M0,400 Q200,300 400,400 T800,400"/>
+   <path fill="white" d="M10,390 Q200,300 400,390 T800,400"/>
+   
+   <!-- Drawing the surfer body -->
+   <path fill="black" d="M200,350 Q210,300 220,300 Q230,350 240,350 Q240,400 200,400 Z"/>
+   
+   <!-- Drawing the surfboard -->
+   <path fill="green" d="M180,400 Q220,380 260,400 Q220,410 180,400 Z"/>
+</svg>

@@ -1,0 +1,44 @@
+<!-- SVG Canvas -->
+<svg width="800px" height="800px" viewBox="0 0 800 800">
+
+  <!-- Background: Neutral color -->
+  <rect width="100%" height="100%" fill="#F0F0F0" />
+
+  <!-- Panda: Body -->
+  <circle cx="400" cy="400" r="300" fill="white" />
+
+  <!-- Panda: Eyes -->
+  <ellipse cx="320" cy="320" rx="80" ry="120" fill="black" />
+  <ellipse cx="320" cy="320" rx="40" ry="60" fill="white" />
+  <circle cx="320" cy="320" r="20" fill="black" />
+
+  <ellipse cx="480" cy="320" rx="80" ry="120" fill="black" />
+  <ellipse cx="480" cy="320" rx="40" ry="60" fill="white" />
+  <circle cx="480" cy="320" r="20" fill="black" />
+
+  <!-- Panda: Ears -->
+  <circle cx="280" cy="220" r="60" fill="black" />
+  <circle cx="520" cy="220" r="60" fill="black" />
+
+  <!-- Panda: Legs -->
+  <rect x="200" y="500" width="100" height="100" rx="50" ry="50" fill="black" />
+  <rect x="500" y="500" width="100" height="100" rx="50" ry="50" fill="black" />
+  
+  <!-- Panda: Arms -->
+  <rect x="200" y="400" width="75" height="50" rx="37.5" ry="25" fill="black" />
+  <rect x="525" y="400" width="75" height="50" rx="37.5" ry="25" fill="black" />
+
+  <!-- Panda: Mouth -->
+  <path d="M400,475 a50,50 0 0,0 0,-50" fill="transparent" stroke="black" stroke-width="5" />
+
+  <!-- Bamboo: Stalk -->
+  <rect x="375" y="375" width="50" height="250" fill="#006400" />
+  <line x1="375" y1="425" x2="425" y2="425" stroke="#004d00" stroke-width="5" />
+  <line x1="375" y1="475" x2="425" y2="475" stroke="#004d00" stroke-width="5" />
+  <line x1="375" y1="525" x2="425" y2="525" stroke="#004d00" stroke-width="5" />
+
+  <!-- Bamboo: Leaves -->
+  <polygon points="375,375 350,350 375,325" fill="#008000" />
+  <polygon points="425,375 450,350 425,325" fill="#008000" />
+
+</svg>

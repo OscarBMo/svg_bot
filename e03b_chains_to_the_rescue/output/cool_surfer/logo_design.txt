@@ -1,0 +1,18 @@
+## Draft for SVG Logo Design
+
+**1. Surfer:**
+   The main element is the surfer. This surfer should be drawn in a simplified but clearly identifiable manner. 
+   - Body: The body of the surfer should be stylized, potentially an abstract or geometric representation, wearing a surf suit. 
+   - Surfboard: The surf gets a distinct color to emphasize it. The surfboard should be long and slightly curved, slim in design to reflect the look of a real surfboard.
+   - Pose: The surfer should be posed in a classic surfing stance: one foot at the front of the board, one foot at the back, and body slightly crouched for balance.
+
+**2. Wave:**
+   - Shape: The wave will need to be larger in size than the surfer, curved in nature, signifying a large and powerful wave. This can either be a single or a double wave.
+   - Color: The color of the wave should preferably be varying shades of blue to realistically represent water.
+   - Texture: The wave texture should be presented with occasional white lines or dots to depict foaming water at the crest of the wave.
+
+**3. Surrounding (optional):**
+   - Sky: Adding a sky could provide context if desired, with a light blue horizontal rectangle behind the surfer and the wave.
+   - Sun: A cool yellow sun, possibly with light rays, can be placed in the sky for an added touch. 
+
+Overall, this logo design should depict a "cool surfer" and should keep a color palette that gives off a cool, beachy vibe.

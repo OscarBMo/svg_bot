@@ -1,0 +1,23 @@
+## Elements of the logo
+
+### Panda
+
+- Body: The body should be white in color. It should be round to give a cute and fluffy look. 
+- Eyes: The eyes should be contained in large black patches to resemble the typical panda eye marking. The eyes themselves should be white with small black pupils
+- Ears: The ears should be black and positioned on the top of the head.
+- Legs: The legs should be stump-like to maintain the overall round figure of the panda. They should be black in color.
+- Arms: The arms should be small and point upwards to be in a position that as if they are holding a bamboo. They should be black in color.
+- Mouth: A small, round mouth that is slightly open to convey the action of eating. It should be black in color.
+
+### Bamboo
+
+- Stalk: Should be cylindrical with segments marked by thin lines. It should be colored in shades of green.
+- Leaves: They should come off the bamboo stalk in clusters of narrow pointed shapes. They should be green in color.
+
+### Background
+
+- Color: A light neutral color to allow the panda and bamboo to stand out.
+
+## Arrangement
+
+The panda should be positioned centrally in the logo, in a relaxed sitting position. In the panda's 'arms', a stick of bamboo should be represented, with a few leaves hanging from the top to convey that it is being chewed.

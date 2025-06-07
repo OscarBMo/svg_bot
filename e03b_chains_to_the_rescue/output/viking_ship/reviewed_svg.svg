@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Viking Ship -->
+  <path d="M25,40 Q50,20 75,40 T100,70 Q75,50 50,70 T25,40" stroke="black" fill="black" style="stroke: none;" /> <!-- Fixed missing path closing tag. Shape and silhouette of the Viking ship's hull and sail--> 
+  <circle cx="30" cy="75" r="7.5" fill="black" /> <!-- Shield on Viking ship hull's side -->
+  <circle cx="50" cy="75" r="7.5" fill="black" /> <!-- Shield on Viking ship hull's side -->
+  <circle cx="70" cy="75" r="7.5" fill="black" /> <!-- Shield on Viking ship hull's side -->
+
+  <!-- Waves -->
+  <path d="M0,90 Q25,70 50,90 T100,90 " stroke="black" fill="black" style="stroke: none;" /> <!-- Fixed missing path closing tag. Undulating waves under the ship -->
+</svg>
