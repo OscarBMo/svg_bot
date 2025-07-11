@@ -1,0 +1,23 @@
+## Elements List for the Logo
+
+1. Pizza Crust:
+   - Shape: A round and slightly irregular shape typically found in handmade pizzas, to give a rustic appearance.
+   - Color: Light brown for a baked appearance. 
+
+2. Tomato Sauce:
+   - Shape: It should cover the pizza crust leaving a small margin, giving the appearance of a slightly smaller circle over the pizza crust.
+   - Color: Bright red to distinguish it from the crust.
+
+3. Mozzarella Cheese:
+   - Shape: Random blobs scattered on top of the tomato sauce replicating the uneven distribution of mozzarella on a pizza.
+   - Color: Off-white to mimic the color of cheese. 
+
+4. Tomato Slices:
+   - Shape: Round and flat shapes placed randomly over the cheese to represent slices of fresh tomato. 
+   - Color: Red with slightly darker areas that reflect the natural variations in a tomato slice. In the center of each tomato slice, there should be a smaller off-white circle with small black dots to mimic the seeds.
+
+5. Basil Leaves:
+   - Shape: Small, star-shaped figures with elongated ends, unevenly scattered on top of the pizza to resemble basil leaves.
+   - Color: Dark green for a fresh and organic look.
+
+All elements should have soft edges to give a hand-drawn feel to the logo. Size-wise, the elements should be proportionate to each other as they would appear on a real pizza. The crust being the largest, followed by the tomato sauce, and the cheese, tomato slices, and basil leaves atop, respectively smaller.

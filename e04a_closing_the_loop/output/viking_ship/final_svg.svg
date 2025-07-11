@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1550 1000">
+    <!-- Ship Hull -->
+    <path d="M250,750 Q500,500 750,750 Q1000,500 1250,750 L1250,1000 L250,1000 Z" fill="black" /> 
+
+    <!-- Oars -->
+    <line x1="350" y1="750" x2="325" y2="850" stroke="black" /> 
+    <line x1="500" y1="650" x2="475" y2="750" stroke="black" /> 
+    <line x1="650" y1="750" x2="625" y2="850" stroke="black" /> 
+    <line x1="800" y1="650" x2="775" y2="750" stroke="black" /> 
+    <line x1="950" y1="750" x2="925" y2="850" stroke="black" /> 
+    <line x1="1100" y1="650" x2="1075" y2="750" stroke="black" /> 
+
+    <!-- Mast -->
+    <line x1="750" y1="750" x2="750" y2="100" stroke="black" /> 
+
+    <!-- Sail -->
+    <polygon points="650,750 850,750 850,250 650,250" fill="black" /> 
+
+    <!-- Dragon head -->
+    <path d="M250,750 Q200,650 250,550 L300,750 Z" fill="black" /> 
+
+    <!-- Dragon tail -->
+    <path d="M1250,750 Q1300,650 1250,550 L1200,750 Z" fill="black" />
+
+    <!-- Waves -->
+    <path d="M150,960 Q250,920 350,960 Q450,1000 550,960 Q650,920 750,960 Q850,1000 950,960 Q1050,920 1150,960 Q1250,1000 1350,960" fill="transparent" stroke="black" /> 
+</svg>

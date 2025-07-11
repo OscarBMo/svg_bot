@@ -1,0 +1,37 @@
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+    <!-- sky gradient, from bright orange to dark blue to black -->
+    <linearGradient id="sky-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" style="stop-color:orange; stop-opacity:1" />
+        <stop offset="50%" style="stop-color:blue; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:black; stop-opacity:1" />
+    </linearGradient>
+    <!-- sky -->
+    <rect width="100%" height="100%" fill="url(#sky-gradient)" />
+
+    <!-- mountains with a rocky texture, in dark brown and gray -->
+    <path d="M0 600 L200 400 L400 600 Z" fill="#663300" />
+    <path d="M200 400 L400 600 L600 400 Z" fill="#333333" />
+
+    <!-- river, flowing from the mountains, in shades of blue with white for foam -->
+    <path d="M400 600 C400 500 200 500 200 400" stroke="blue" stroke-width="50" fill="transparent" stroke-linecap="round" >
+        <animate attributeName="stroke" dur="5s" values="#0000ff;#ffffff;#0000ff" repeatCount="indefinite" />
+    </path>
+
+    <!-- sunset gradient, from orange to red -->
+    <radialGradient id="sunset-gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" style="stop-color:orange" />
+        <stop offset="100%" style="stop-color:red" />
+    </radialGradient>
+    <!-- sun at the corner of one mountain -->
+    <circle cx="400" cy="400" r="100" fill="url(#sunset-gradient)" />
+
+    <!-- sunrays gradient, from yellow to transparent -->
+    <radialGradient id="sunray-gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" style="stop-color:yellow" />
+        <stop offset="100%" style="stop-color:transparent" />
+    </radialGradient>
+    <!-- subtle rays emanating from the sun -->
+    <polygon points="400,400 300,300 500,300" fill="url(#sunray-gradient)" />
+</svg>
+```

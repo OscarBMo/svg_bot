@@ -1,0 +1,21 @@
+## Elements for the "Cute Panda" logo
+
+1. **Panda**: This is the main element of the logo. The panda should be designed cute and friendly looking. It should be essentially composed of:
+   
+   - **Body**: The main body of the panda should be round and fluffy. It should have a white color, and a bold black outline to enhance visibility. The size of the body should be the biggest component of the panda.
+
+   - **Head**: The head of the panda should be slightly smaller than the body. It should be round with a white color and a bold black outline. There should be big black patches around the eyes, implying a typical characteristic of a panda.
+
+   - **Eyes**: The eyes should be oval in shape. They should be black color and positioned in the middle of the black patches of the head.
+
+   - **Ears**: The ears should be located on top of the head, they should be round-shaped with a black color.
+
+   - **Arms**: The arms should be short and round, colored white with a black outline. One of the arms must have a bamboo stick in hand.
+
+   - **Legs**: The legs should be short with round feet, colored white with a black outline.
+
+   - **Mouth**: The mouth should be placed under the eyes and within the black patches, designed to give the panda a happy expression.
+
+2. **Bamboo stick**: This is the secondary element of the logo. The panda should be holding a green bamboo stick and it should appear as if the panda is eating it. The bamboo stick should be as long as the panda to create symmetry. But it should be slim to ensure the panda stands out more.
+   
+3. **Background**: The background should be plain and white to keep the focus on the panda.

@@ -1,0 +1,21 @@
+- Elements of the logo:
+
+1. Robot Dog:
+   - Body: The body of the robot dog should be a geometric shape (for instance, a rectangle or a rounded rectangle). It should have a shiny metallic finish, and could be designed to display metallic textures. The color of the body should be a metallic grey to give it the robot-like look.
+
+2. Head: 
+   - The head of the robot dog could take a geometric shape such as a circle or an oval. It should be attached above the body and should also have a shiny metallic finish and color.
+
+3. Eyes: 
+   - The eyes of the robot dog can be two small black circles. They should be present on the head of the dog, equidistant from each other.
+
+4. Ears: 
+   - The ears should be triangles or semi-circles, present at the top two sides of the head. They should also have a metallic finish and color to match the body and the head.
+
+5. Legs:
+   - The robot dog should have four legs. Each leg could be designed as two connected rectangles to illustrate joints. They should also have a metallic finish and color to match the body. 
+
+6. Tail:
+    - The tail of the robot dog should be a narrow rectangle extending from the back of the body. It should also have a metallic finish and color like the rest of the body.
+
+These are general guidelines and the shapes and sizes can be adjusted according to the overall look and balance of the logo.

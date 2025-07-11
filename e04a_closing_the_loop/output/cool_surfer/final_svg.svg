@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#ADD8E6"/> <!-- Calming light blue background --> 
+
+    <!-- Sun -->
+    <circle cx="400" cy="100" r="70" fill="yellow"/> <!-- Sun in the top right corner -->
+    <line x1="400" y1="40" x2="400" y2="0" stroke="yellow" stroke-width="8"/> <!-- Sun beam -->
+    <line x1="400" y1="160" x2="400" y2="200" stroke="yellow" stroke-width="8"/> <!-- Sun beam -->
+    <line x1="470" y1="100" x2="500" y2="100" stroke="yellow" stroke-width="8"/> <!-- Sun beam -->
+    <line x1="330" y1="100" x2="300" y2="100" stroke="yellow" stroke-width="8"/> <!-- Sun beam -->
+
+    <!-- Wave -->
+    <path d="M0 400 Q250 200 500 400 Q500 500 0 500" fill="lightblue"/> <!-- Large, cresting wave -->
+
+    <!-- Surfboard -->
+    <path d="M200 370 Q230 360 250 400 T300 420" fill="orange"/> <!-- Surfboard beneath surfer, slightly submerged in wave -->
+
+    <!-- Surfer -->
+    <circle cx="250" cy="360" r="10" fill="red"/> <!-- Surfer head -->
+    <path d="M240 370 Q250 380 260 370" fill="red"/> <!-- Surfer body -->
+    <path d="M240 370 Q235 365 240 360" fill="red"/> <!-- Surfer leading arm -->
+    <path d="M260 370 Q265 365 260 360" fill="red"/> <!-- Surfer trailing arm -->
+
+</svg>

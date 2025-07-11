@@ -1,0 +1,39 @@
+<svg width="500px" height="500px" version="1.1">
+
+    <!-- Body of the robot dog -->
+    <rect x="150" y="220" rx="50" ry="50" width="200" height="100" fill="gray" justify="center" filter="url(#metallic-finish)" />
+
+    <!-- Head of the robot dog -->
+    <ellipse cx="250" cy="180" rx="100" ry="70" fill="gray" filter="url(#metallic-finish)" />
+
+    <!-- Eye of the robot dog -->
+    <circle cx="200" cy="150" r="10" fill="black"/>
+    <circle cx="300" cy="150" r="10" fill="black"/>
+ 
+    <!-- Ears of the robot dog -->
+    <polygon points="150,130 180,110 210,130" fill="gray" filter="url(#metallic-finish)" />
+    <polygon points="350,130 320,110 290,130" fill="gray" filter="url(#metallic-finish)" />
+
+    <!-- Legs of the robot dog -->    
+    <rect x="180" y="320" width="20" height="70" fill="gray" filter="url(#metallic-finish)" />
+    <rect x="300" y="320" width="20" height="70" fill="gray" filter="url(#metallic-finish)" />
+    <rect x="190" y="390" width="10" height="20" fill="gray" filter="url(#metallic-finish)" />
+    <rect x="310" y="390" width="10" height="20" fill="gray" filter="url(#metallic-finish)" />
+
+    <!-- Tail of the robot dog -->
+    <rect x="320" y="240" width="10" height="50" fill="gray" filter="url(#metallic-finish)" />
+
+    <!-- Filter for metallic finish -->
+    <defs>
+        <filter id="metallic-finish">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur"/>
+            <feSpecularLighting in="blur" surfaceScale="5" specularConstant=".75"
+             specularExponent="20" lighting-color="#bbbbbb" result="specOut">
+                <fePointLight x="-5000" y="-10000" z="20000" />
+            </feSpecularLighting>
+            <feComposite in="specOut" in2="SourceAlpha" operator="in" result="specOut" />
+            <feComposite in="SourceGraphic" in2="specOut" operator="arithmetic" k1="0" k2="1" k3="1" k4="0"/> 
+        </filter>
+    </defs>
+  
+</svg>

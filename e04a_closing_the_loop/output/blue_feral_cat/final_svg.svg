@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356" height="378">
+    <!-- Cat body with gradient blue color -->
+    <path
+        d="M158.5,322.5 Q140,280 178.5,265 Q217,250 199,210 Q150,230 128.5,192 Q100,140 178.5,140 Q258,140 228.5,190 Q208,230 160,210 Q142,250 180.5,265 Q220,280 202.5,322.5"
+        fill="none"
+        stroke="blue"
+        stroke-width="2" />
+    
+    <defs>
+        <linearGradient id="gradient1" x1="50%" y1="100%" x2="50%" y2="0%">
+            <stop offset="0%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+            <stop offset="100%" style="stop-color:rgb(0,0,128);stop-opacity:1" />
+        </linearGradient>
+    </defs>
+
+    <!-- Cat head with gradient blue color -->
+    <path
+        d="M69,92 Q105,63 135,81 Q165,63 200,92 Q200,110 185,124 Q168,146 135,124 Q100,140 69,124 Q54,110 69,92"
+        fill="none"
+        stroke="blue"
+        stroke-width="2" />
+
+    <defs>
+        <linearGradient id="gradient2" x1="50%" y1="100%" x2="50%" y2="0%">
+            <stop offset="0%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+            <stop offset="35%" style="stop-color:rgb(100,100,255);stop-opacity:1" />
+            <stop offset="70%" style="stop-color:rgb(0,0,128);stop-opacity:1" />
+            <stop offset="100%" style="stop-color:rgb(0,0,80);stop-opacity:1" />
+        </linearGradient>
+    </defs>
+
+    <!-- Cat eyes with bright yellow color -->
+    <circle cx="185" cy="90" r="8" fill="yellow" />
+
+    <circle cx="120" cy="90" r="8" fill="yellow" />
+
+    <!-- Cat ears with gradient blue color -->
+    <path
+        d="M110,76 Q100,50 85,60"
+        fill="none"
+        stroke="blue"
+        stroke-width="2" />
+
+    <path
+        d="M196,76 Q205,50 220,60"
+        fill="none"
+        stroke="blue"
+        stroke-width="2" />
+
+    <!-- Cat tail with gradient blue color -->
+    <path
+        d="M220,250 Q250,220 280,220 Q310,220 315,250 Q280,300 225,275 Z"
+        fill="none"
+        stroke="blue"
+        stroke-width="2" />
+
+    <!-- Cat paws -->
+    <circle cx="180" cy="330" r="15" fill="blue" />
+    <circle cx="130" cy="330" r="15" fill="blue" />
+</svg>
